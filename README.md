@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-<img src="<img src="assets/banner.png.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/athuljith5142/athuljith-profile/main/assets/banner.png.png" width="100%" />
 
 </p>
 
