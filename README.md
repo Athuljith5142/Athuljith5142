@@ -1,6 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="<img src="https://raw.githubusercontent.com/athuljith5142/athuljith-profile/main/assets/banner.png" width="100%"/>
+<img src="<img src="https://raw.githubusercontent.com/athuljith5142/athuljith-profile/main/assets/banner.png" width="100%"/>
+
 </p>
 
 <!-- Typing Effect -->
