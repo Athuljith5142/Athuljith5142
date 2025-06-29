@@ -1,3 +1,8 @@
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/athuljith5142/your-repo-name/main/assets/banner.png" alt="Athuljith Banner" width="100%" />
+</p>
+
 <!-- Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FF6C00&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Athuljith;Web+Developer+%F0%9F%92%BB;UI+%2F+UX+Designer+%F0%9F%8E%A8;Tech+Explorer+%F0%9F%94%A5" alt="Typing SVG" />
