@@ -11,8 +11,64 @@
   />
 </p>
 
-# 💫 About Me:
-👋 Hi, I'm Athul Jith M.A<br><br>🎓 BCA Student at Amrita Vishwa Vidyapeetham<br>💻 Full Stack Developer | UI Designer | Cybersecurity Enthusiast<br><br>I’m passionate about building modern, scalable, and secure digital experiences. My interests include Full Stack Development, UI/UX Design, Networking, Cybersecurity, Penetration Testing, and Web Security.<br><br>🚀 Currently working on:<br><br> Cybersecurity and Networking Skill Development<br><br><br>🔐 Exploring:<br>Network Security • WAF • Penetration Testing • CCNA • Secure Application Design<br><br>📌 Interested in combining modern UI design with secure and scalable application architecture.<br><br>🌱 Currently learning and growing through projects, hands-on development, and cybersecurity practice labs.<br><br>📫 Connect with me:<br><br>* LinkedIn: linkedin.com/in/athuljithma/<br>* GitHub: github.com/Athuljith5142<br>
+# 💫 About Me
+
+
+```yaml
+Name: Athul Jith M.A
+Role: Full Stack Developer | UI Designer | Cybersecurity Enthusiast
+Education: BCA @ Amrita Vishwa Vidyapeetham
+Location: Kerala, India
+```
+
+---
+
+## 🚀 Passionate About
+
+* 💻 Full Stack Development
+* 🎨 UI/UX Design
+* 🔐 Cybersecurity & Web Security
+* 🌐 Networking & Secure Systems
+* 🛡️ Penetration Testing & WAF
+
+---
+
+## 🌱 Currently Exploring
+
+```yaml
++ Network Security
++ CCNA
++ WAF Technologies
++ Secure Application Design
++ Cybersecurity Practice Labs
+```
+
+---
+
+## ⚡ Current Focus
+
+* 🚀 Building scalable and secure digital experiences
+* 🎯 Improving cybersecurity & networking skills
+* 🧠 Learning through projects and hands-on development
+* 🔥 Combining modern UI design with secure architectures
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Athuljith5142">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+  </a>
+
+  <a href="https://linkedin.com/in/athuljithma/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A855F7"/>
+  </a>
+
+  <a href="mailto:athuljithma5142@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=22C55E"/>
+  </a>
+</p>
 
 
 ## 🌐 Socials:
