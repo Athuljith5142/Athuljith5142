@@ -1,11 +1,14 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/athuljith5142/athuljith5142/main/assets/banner.png.png" width="100%" alt="Athuljith M A Banner" />
+  <img src="https://raw.githubusercontent.com/athuljith5142/athuljith5142/main/assets/Banner.png" width="100%" alt="Athuljith M A Banner" />
 </p>
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6C00&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Athuljith+%F0%9F%91%8B;AI+%26+Robotics+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;UI+%2F+UX+Designer+%F0%9F%8E%A8;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&repeat=true&width=900&lines=Athuljith+M+A;BCA+Student;Full+Stack+Developer;Cybersecurity+Enthusiast;UI%2FUX+Designer"
+    alt="Typing SVG"
+  />
 </p>
 
 # 💫 About Me:
