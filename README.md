@@ -15,7 +15,7 @@
 
 ```yaml
 Name: Athul Jith M.A
-Role: Full Stack Developer | UI Designer | Cybersecurity Enthusiast
+Role: Software Developer | UI Designer | Cybersecurity Enthusiast
 Education: BCA @ Amrita Vishwa Vidyapeetham
 Location: Kerala, India
 ```
