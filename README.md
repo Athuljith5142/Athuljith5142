@@ -14,7 +14,7 @@
 # ── About Me ───
 
 ```yaml
-Name: Athul Jith M.A
+Name: Athuljith M A
 Role: Software Developer | UI Designer | Cybersecurity Enthusiast
 Education: MCA Cybersecurity @ Amrita Vishwa Vidyapeetham
 Location: Kerala, India
