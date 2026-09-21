@@ -6,7 +6,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&repeat=true&width=900&lines=Athuljith+M+A;BCA+Student;Full+Stack+Developer;Cybersecurity+Enthusiast;UI%2FUX+Designer"
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&repeat=true&width=900&lines=Athuljith+M+A;MCA+Student;Full+Stack+Developer;Cybersecurity+Enthusiast;UI%2FUX+Designer"
     alt="Typing SVG"
   />
 </p>
@@ -16,7 +16,7 @@
 ```yaml
 Name: Athul Jith M.A
 Role: Software Developer | UI Designer | Cybersecurity Enthusiast
-Education: BCA @ Amrita Vishwa Vidyapeetham
+Education: MCA Cybersecurity @ Amrita Vishwa Vidyapeetham
 Location: Kerala, India
 ```
 
